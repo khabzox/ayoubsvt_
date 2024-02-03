@@ -31,7 +31,6 @@ const About = () => {
               <iframe
               src="https://www.youtube-nocookie.com//embed/22TuvwA7DpA?si=WSKRh_QXBSBrvGR0"
               frameborder="0"
-              allowfullscreen
               className="h-90 w-full m-10 mr-8 mt-24"
             />
             
